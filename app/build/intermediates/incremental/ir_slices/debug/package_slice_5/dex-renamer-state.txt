@@ -1,0 +1,4 @@
+#Mon Nov 19 13:56:39 WIB 2018
+base.0=/Users/dimassaputra/MEGA/AndroidSourceCode/Experimental/GenkPinbukSticker/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

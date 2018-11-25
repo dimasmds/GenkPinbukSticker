@@ -1,0 +1,106 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Genk PINBUK",
+      "publisher": "Dimas Saputra",
+      "tray_image_file": "sticker_thumb.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ng_greeting_salam.webp",
+          "emojis": ["👋","💁‍"]
+        },
+        {
+          "image_file": "ng_spirit_02.webp",
+          "emojis": ["😇","🏋‍"]
+        },
+        {
+          "image_file": "ng_spirit.webp",
+          "emojis": ["🏃‍","👷‍"]
+        },
+        {
+          "image_file": "ng_thumb_mantul.webp",
+          "emojis": ["👍","👏"]
+        },
+        {
+          "image_file": "rf_break_yoga.webp",
+          "emojis": ["😴","😪"]
+        },
+        {
+          "image_file": "rf_sad.webp",
+          "emojis": ["😟","😔"]
+        },
+        {
+          "image_file": "rf_sorry.webp",
+          "emojis": ["🙇‍","🙏"]
+        },
+        {
+          "image_file": "rn_eat.webp",
+          "emojis": ["🍴","🍽"]
+        },
+        {
+          "image_file": "sr_fight.webp",
+          "emojis": ["👊","🔥"]
+        },
+        {
+          "image_file": "sr_smile_curious.webp",
+          "emojis": ["🤔","😬"]
+        },
+        {
+          "image_file": "sr_smile_cute.webp",
+          "emojis": ["😊","😸"]
+        },
+        {
+          "image_file": "sr_smile_over.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "afandi_seriusdong.webp",
+          "emojis": ["😒","😠"]
+        },
+        {
+          "image_file": "aju_zzz.webp",
+          "emojis": ["😴","💤"]
+        },
+        {
+          "image_file": "rf_geliah.webp",
+          "emojis": ["😅","🤣️"]
+        },
+        {
+          "image_file": "rf_iyakah.webp",
+          "emojis": ["❓","⁉️"]
+        },
+        {
+          "image_file": "rf_kenpasih.webp",
+          "emojis": ["❓","⁉️"]
+        },
+        {
+          "image_file": "rf_ohgitu.webp",
+          "emojis": ["😮","😯"]
+        },
+        {
+          "image_file": "rf_sabar.webp",
+          "emojis": ["😇","😉️"]
+        },
+        {
+          "image_file": "rn_coba.webp",
+          "emojis": ["🤡","🤠"]
+        },
+        {
+          "image_file": "sukijan_hahaha.webp",
+          "emojis": ["😂","🤣️"]
+        },
+        {
+          "image_file": "sukijan_nyimak.webp",
+          "emojis": ["🙄","🤔️"]
+        }
+      ]
+    }
+  ]
+}
